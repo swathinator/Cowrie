@@ -22,7 +22,7 @@ pwd</pre>
 - As root, run this command:
 <pre>vim /var/lib/docker/overlay2/49cb1d1569dac74ee9793c9efb526ae1ba35b8e4a31b14a1a1c8c30bc70dc953/diff/cowrie/cowrie-git/etc/cowrie.cfg.dist</pre>
 - To make changes, press ```a```. Then press, ```esc```, ```:```, ```wq!```, and ```return```
-<img width="800" alt="Screenshot 2025-03-31 at 2 50 46 PM" src="https://github.com/user-attachments/assets/a68109dc-fb52-4a73-b471-a41866c3b278" /><br><br>
+<img width="600" alt="Screenshot 2025-03-31 at 2 50 46 PM" src="https://github.com/user-attachments/assets/a68109dc-fb52-4a73-b471-a41866c3b278" /><br><br>
 - Restart Cowrie:
 <pre>docker run -p 2222:2222 cowrie/cowrie</pre>
 - Remove known_hosts:
