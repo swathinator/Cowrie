@@ -52,4 +52,5 @@ Contact IT for support
 
 ssh -p 2222 root@localhost</pre>
 <img width="800" alt="Screenshot 2025-03-31 at 3 17 15 PM" src="https://github.com/user-attachments/assets/7f00c1d2-0eb7-4c40-a71f-09d7bee89d27" /><br><br>
-- MOTD changed.
+- MOTD changed.<br><br>
+<a href="https://github.com/swathinator/Homelabs">Back to Homelabs</a>
