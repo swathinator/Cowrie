@@ -1,5 +1,6 @@
 # Cowrie
-(Antisyphon training lab from Cyber Deception/Active Defense)
+(Antisyphon training lab from Cyber Deception/Active Defense)<br><br>
+Full lab explanation available on my <a href="https://medium.com/@swathitadepalli/active-defense-and-cyber-deception-antisyphon-training-44c0ee851be4#aafe">Medium</a>
 ## Deploy Cowrie Using Docker
 - Switch to the root user (```sudo su -```) and start the Cowrie container:
 <pre>docker run -p 2222:2222 cowrie/cowrie</pre>
